@@ -1,0 +1,16 @@
+{
+  "name": "win-sudo",
+  "version": "0.0.0",
+  "description": "Sudo equivalent for Windows",
+  "main": "index.js",
+  "bin": {
+    "win-sudo": "index.js",
+    "sudo": "index.js"
+  },
+  "repository": "laggingreflex/win-sudo",
+  "dependencies": {
+    "class-cli": "^0.3.1",
+    "fs-extra": "^8.1.0",
+    "read-until-deleted": "laggingreflex/read-until-deleted"
+  }
+}
