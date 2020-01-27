@@ -1,6 +1,6 @@
 {
   "name": "win-sudo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sudo equivalent for Windows",
   "main": "index.js",
   "bin": {
